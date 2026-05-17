@@ -1,2 +1,2 @@
 # Data-Structure-Project
-University management using Data structure algorithms
+University management system using Data structure algorithms
