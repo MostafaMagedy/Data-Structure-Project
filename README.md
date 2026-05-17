@@ -1,2 +1,2 @@
 # Data-Structure-Project
-University management using linked list 
+University management using Data structure algorithms
